@@ -20,7 +20,7 @@ This repository has example of PCF scheduler app to be used in PCF env
 
 
 # Reference
-https://medium.com/@christophef/scheduler-with-cloud-foundry-2f98d3daef35
-https://github.com/christophe-f/pcf-scheduler-demo/blob/master/README.md
-https://dzone.com/articles/scheduling-jobs-using-pcf-scheduler
+1) https://medium.com/@christophef/scheduler-with-cloud-foundry-2f98d3daef35
+2) https://github.com/christophe-f/pcf-scheduler-demo/blob/master/README.md
+3) https://dzone.com/articles/scheduling-jobs-using-pcf-scheduler
 
