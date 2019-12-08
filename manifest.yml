@@ -1,0 +1,16 @@
+---
+applications:
+- name: pcf-scheduler
+  disk_quota: 1G
+  instances: 2
+  memory: 1G
+  buildpacks:
+  - https://github.com/cloudfoundry/java-buildpack.git
+  random-route: true
+  path: target/pcf-scheduler-0.0.1-SNAPSHOT.jar
+  timeout: 120
+  stack: cflinuxfs3
+  services:
+  - pcf-scheduler
+  
+  
